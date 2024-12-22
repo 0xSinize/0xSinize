@@ -2,8 +2,6 @@
 
 <h2 align="center">I'm 0xSinize aka sinize, a Cybersecurity student</h2>
 
-###
-
 ---
 
 <div align="center">

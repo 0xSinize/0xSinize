@@ -56,12 +56,12 @@
 
 <h2 align="left">💻 TryHackMe Profile</h3>
 
----
+
 
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://imgflip.com/gif/9elg5n"  />
+  <img height="85px" width="300px" style="border-radius:50%" src="https://tryhackme-badges.s3.amazonaws.com/sinize.png" alt="Your Image Badge" />
 </div>
 
 ---

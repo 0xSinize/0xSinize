@@ -81,9 +81,9 @@
  <details>   
     <br>
     <p align="center">
-        <img src="https://i.ibb.co/YcncCZX/art.png"/>
+        <img src="https://i.ibb.co/ySqR2SZ/wp10351691-eighty-six-anime-wallpapers.jpg"/>
         <br>
-        <img src="https://i.ibb.co/THbbsJ7/2024-10-18-15-38.png"/>
+        <img src=""/>
     </p>
   </details>
 

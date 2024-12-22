@@ -8,7 +8,7 @@
   <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM0NnBsYjA1ajBoN24wMzA5aGszdWs2eGE1YnR3cGMwdHlycGZ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5EZRRf4OHmXXeZTSxl/giphy.gif"  />
 </div>
 
----
+
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
----
+
 
 <br clear="both">
 

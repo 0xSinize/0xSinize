@@ -83,7 +83,7 @@
     <p align="center">
         <img src="https://i.ibb.co/ySqR2SZ/wp10351691-eighty-six-anime-wallpapers.jpg"/>
         <br>
-        <img src=""/>
+        <img src="https://i.ibb.co/S0HYB2y/wp14468223-eighty-six-phone-wallpapers.jpg"/>
     </p>
   </details>
 

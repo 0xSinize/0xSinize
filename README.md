@@ -8,7 +8,7 @@
   <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM0NnBsYjA1ajBoN24wMzA5aGszdWs2eGE1YnR3cGMwdHlycGZ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5EZRRf4OHmXXeZTSxl/giphy.gif"  />
 </div>
 
-###
+---
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
-###
+---
 
 <br clear="both">
 
@@ -24,11 +24,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=0xSinize.0xSinize&left_color=darkslateblue&right_color=midnightblue"  />
 </div>
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h3>
 
-###
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -52,11 +52,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
-###
+---
 
-<h3 align="left">💻 TryHackMe Profile</h3>
+<h2 align="left">💻 TryHackMe Profile</h3>
 
-###
+---
 
 <br clear="both">
 
@@ -64,26 +64,26 @@
   <img height="200" src="https://imgflip.com/gif/9elg5n"  />
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h3>
 
-###
+---
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=0xSinize&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+---
 
-<h3 align="left">🤖 Contributions :</h3>
+<h2 align="left">🤖 Contributions :</h3>
 
-###
+---
 
 <img src="https://raw.githubusercontent.com/0xSinize/0xSinize/output/snake.svg" alt="Snake animation" />
 
-###
+---
 
 <h2 align="left">❤️ Love Art</h2>
 
-###
+---

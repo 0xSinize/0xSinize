@@ -31,7 +31,7 @@
 
 ## 🕵️‍♂️ About Me:
 
-    🛡️   Purple Team, Pentester
+    🛡️   Red Team, Pentester
     🌱   Currently learning Golang
     📌   My goal is to build not only one, but many CyberSecurity enterprise around the world
     📫   You can reach me via Email

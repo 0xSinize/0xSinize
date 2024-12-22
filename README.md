@@ -35,10 +35,12 @@
     🌱   Currently learning Golang
     📌   My goal is to build not only one, but many CyberSecurity enterprise around the world
     📫   You can reach me via Email
-
+    🌸   Anime lover
+    🏋🏼‍♀️   Gym bro
+    
 ---
 
-<h2 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools:</h3>
 
 ###
 
@@ -66,7 +68,7 @@
 
 ---
 
-<h2 align="left">💻 TryHackMe Profile</h3>
+<h2 align="left">💻 TryHackMe Profile:</h3>
 
 
 
@@ -78,7 +80,7 @@
 
 ---
 
-<h2 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥 My Stats:</h3>
 
 
 
@@ -89,7 +91,7 @@
 
 ---
 
-<h1>❤️ Love Art</h1>
+<h1>❤️ Love Art:</h1>
  <details>   
     <br>
     <p align="center">

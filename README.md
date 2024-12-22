@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZVgit.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&color=1F37F7&multiline=true&width=435&lines=I'm+0xSinize+aka+sinize%2C+Cybersecurity+student)](https://git.io/typing-svg)
 
 <p align="center">
   <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM0NnBsYjA1ajBoN24wMzA5aGszdWs2eGE1YnR3cGMwdHlycGZ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5EZRRf4OHmXXeZTSxl/giphy.gif"  />

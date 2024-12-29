@@ -97,6 +97,8 @@
     <p align="center">
         <img src="https://i.ibb.co/ySqR2SZ/wp10351691-eighty-six-anime-wallpapers.jpg"/>
         <br>
+        <img src="https://i.ibb.co/mGTKJ5P/wallpaperflare-com-wallpaper-1.jpg"/>
+        <br>
         <img src="https://i.ibb.co/C6kZzkN/wallpaperflare-com-wallpapoer.jpg"/>
         <br>
         <img src="https://i.ibb.co/D5WqVJ4/4940684.png"/>

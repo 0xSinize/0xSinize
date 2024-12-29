@@ -99,6 +99,8 @@
         <br>
         <img src="https://i.ibb.co/C6kZzkN/wallpaperflare-com-wallpapoer.jpg"/>
         <br>
+        <img src="https://i.ibb.co/D5WqVJ4/4940684.png"/>
+        <br>
         <img src="https://i.ibb.co/CzPkDsN/solo-leveling-staue-of-god-smile-phone-wallpaper-4k-uhdpaper-com-141-2-b.jpg"/>
     </p>
   </details>

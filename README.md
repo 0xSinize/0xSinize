@@ -97,6 +97,8 @@
     <p align="center">
         <img src="https://i.ibb.co/ySqR2SZ/wp10351691-eighty-six-anime-wallpapers.jpg"/>
         <br>
+        <img src="https://i.ibb.co/C6kZzkN/wallpaperflare-com-wallpapoer.jpg"/>
+        <br>
         <img src="https://i.ibb.co/CzPkDsN/solo-leveling-staue-of-god-smile-phone-wallpaper-4k-uhdpaper-com-141-2-b.jpg"/>
     </p>
   </details>

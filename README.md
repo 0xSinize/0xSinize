@@ -24,7 +24,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=0xSinize.0xSinize&left_color=darkslateblue&right_color=midnightblue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=0xSinize.0xSinize&left_color=darkslateblue&right_color=midnightblue" />
 </div>
 
 ---

@@ -97,6 +97,8 @@
     <p align="center">
         <img src="https://i.ibb.co/ySqR2SZ/wp10351691-eighty-six-anime-wallpapers.jpg"/>
         <br>
+        <img src="https://i.ibb.co/sH8hjfk/1368254.jpg"/>
+        <br>
         <img src="https://i.ibb.co/567GYTy/wallpapersden-com-league-of-legends-arcane-4k-jinx-art-5120x2466.jpg"/>
         <br>
         <img src="https://i.ibb.co/xXFYf27/Gg-IB6rgbs-AAz7u-N.jpg"/>

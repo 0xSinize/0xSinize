@@ -28,7 +28,8 @@
 </div>
 
 <div align="center">
-  <a href="[![Discord Presence](https://lanyard.cnrad.dev/api/975787924966756362?bg=000000&hideBadges=true&hideStatus=true&hideProfile=false)](https://discord.com/users/975787924966756362)" target="_blank">
+  <a href="https://discord.com/users/975787924966756362" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/975787924966756362?bg=000000&hideBadges=true&hideStatus=true&hideProfile=false"/>
 </div>
 
 ---

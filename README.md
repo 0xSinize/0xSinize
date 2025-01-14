@@ -90,12 +90,14 @@
 
 ---
 
-<h2 align="left">🔥 My Stats:</h3>
+<h2 align="left">🔥 Github Stats:</h3>
 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sinize&theme=one-dark-pro&hide_border=true)](https://git.io/streak-stats)
-
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=sinize&theme=one-dark-pro&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 
 ---
 

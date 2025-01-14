@@ -94,9 +94,7 @@
 
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=0xSinize&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sinize&theme=one-dark-pro&hide_border=true)](https://git.io/streak-stats)
 
 
 ---

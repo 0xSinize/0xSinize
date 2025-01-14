@@ -84,7 +84,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="85px" width="300px" style="border-radius:50%" <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1860645" style='border:none;'>
+  <img height="85px" width="300px" style="border-radius:50%" <img src="https://tryhackme-badges.s3.amazonaws.com/sinize.png" alt="Your Image Badge" />
 </div>
 
 ---

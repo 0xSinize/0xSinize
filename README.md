@@ -84,7 +84,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="85px" width="300px" style="border-radius:50%" <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1860645" style='border:none;'> </iframe> 
+  <img height="85px" width="300px" style="border-radius:50%" <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1860645" style='border:none;'>
 </div>
 
 ---

@@ -27,9 +27,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=0xSinize.0xSinize&left_color=darkslateblue&right_color=midnightblue"/>
 </div>
 
-<div align="center">
+</a>
 [![Discord Presence](https://lanyard.cnrad.dev/api/975787924966756362?bg=000000&hideBadges=true&hideStatus=true&hideProfile=false)](https://discord.com/users/975787924966756362)
-</div>
+
 
 ---
 

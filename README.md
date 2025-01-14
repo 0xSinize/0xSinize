@@ -77,15 +77,16 @@
 
 ---
 
-<h2 align="left">💻 TryHackMe Profile:</h3>
-
-
+<h2 align="left">🔒 TryHackMe Profile:</h2>
 
 <br clear="both">
 
 <div align="center">
-  <img height="85px" width="300px" style="border-radius:50%" <img src="https://tryhackme-badges.s3.amazonaws.com/sinize.png" alt="Your Image Badge" />
+  <a href="https://tryhackme.com/p/sinize" target="_blank">
+    <img height="85px" width="300px" style="border-radius:50%;" src="https://tryhackme-badges.s3.amazonaws.com/sinize.png" alt="Your Image Badge" />
+  </a>
 </div>
+
 
 ---
 

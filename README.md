@@ -44,7 +44,7 @@
     🎓   Currently learning Golang
     📌   My goal is to build not only one, but many CyberSecurity enterprise around the world
     📫   You can reach me via Email
-    🌸   Anime lover
+    🌸   Kdrama & anime lover
     🏋🏼‍♀️   Gym lover
     
 ---

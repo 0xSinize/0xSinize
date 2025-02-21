@@ -68,6 +68,8 @@
             <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="PHP"/>
             <br>Mongodb
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="PHP"/>
             <br>Firebase
@@ -103,6 +105,9 @@
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Express"/>
             <br>Cloudflare
+        </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="Laravel"/>
             <br>Wordpress

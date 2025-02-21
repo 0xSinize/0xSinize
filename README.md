@@ -22,6 +22,8 @@
 
 - 📫 You can reach me via Email
 
+- 🏋️ Gym enthusiast 
+
 - 🎥 Kdrama / Anime lover
 
 ---

@@ -11,7 +11,7 @@
 ---
 
 ## <picture><img src = "about_me.gif" width = 50px></picture> *About Me*
-<img align="right" alt="Coding" width="350" src="animated.gif" >
+<img align="right" alt="Coding" width="400" src="animated.gif" >
 
 
 - 🛡️ Red Team

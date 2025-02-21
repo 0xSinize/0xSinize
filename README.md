@@ -10,7 +10,7 @@
 
 ---
 
-## <picture><img src = "https://github.com/ChinmayKaitade/ChinmayKaitade/blob/main/about_me.gif" width = 50px></picture> *About Me*
+## <picture><img src = "about_me.gif" width = 50px></picture> *   About Me*
 <img align="right" alt="Coding" width="400" src="animated.gif" >
 
 

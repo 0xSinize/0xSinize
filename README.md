@@ -10,7 +10,7 @@
 
 ---
 
-## <picture><img src = "about_me.gif" width = 50px></picture> *   About Me*
+## <picture><img src = "about_me.gif" width = 50px></picture> &nbsp*About Me*
 <img align="right" alt="Coding" width="400" src="animated.gif" >
 
 

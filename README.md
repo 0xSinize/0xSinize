@@ -106,12 +106,12 @@
             <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="NodeJS"/>
             <br>Powershell
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="NodeJS"/>
             <br>Vim
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Express"/>
             <br>Cloudflare
@@ -143,10 +143,6 @@
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Laravel"/>
             <br>Git
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=aiscript" width="48" height="48" alt="Laravel"/>
-            <br>AiScript
         </td>
     </tr>
 </table>

@@ -127,12 +127,13 @@
     </tr>
 </table>
 
-<br>
-<hr/>
-
 <h3 align="center">
 <img src="header_.png">
 </h3>
+
+<br>
+<hr/>
+
 
 ## 🏆 GitHub Trophies
 

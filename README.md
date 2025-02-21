@@ -49,6 +49,10 @@
             <br>Js
         </td>
         <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="PHP"/>
+            <br>Java
+        </td>
+        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"/>
             <br>PHP
         </td>
@@ -64,12 +68,12 @@
             <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="PHP"/>
             <br>SQLite
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="PHP"/>
             <br>Mongodb
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="PHP"/>
             <br>Firebase
@@ -81,6 +85,10 @@
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="PHP"/>
             <br>Ubuntu
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=debian" width="48" height="48" alt="PHP"/>
+            <br>Debian
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="FastAPI"/>
@@ -102,12 +110,12 @@
             <img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="NodeJS"/>
             <br>Vim
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Express"/>
             <br>Cloudflare
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="Laravel"/>
             <br>Wordpress
@@ -117,12 +125,28 @@
             <br>Amazon AWS
         </td>
         <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Laravel"/>
+            <br>Azure
+        </td>
+        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Laravel"/>
             <br>VSCode
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=obsidian" width="48" height="48" alt="Laravel"/>
             <br>Obsidian
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Laravel"/>
+            <br>Notion
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Laravel"/>
+            <br>Git
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=aiscript" width="48" height="48" alt="Laravel"/>
+            <br>AiScript
         </td>
     </tr>
 </table>

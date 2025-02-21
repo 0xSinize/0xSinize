@@ -28,7 +28,7 @@
 
 ---
 
-### &nbsp; 🖥️ Main Tech  
+### &nbsp; 🖥️ Language and Tools 
 
 <table align="center">
     <tr>
@@ -130,7 +130,9 @@
 <br>
 <hr/>
 
-
+<h3 align="center">
+<img src="header_.png">
+</h3>
 
 ## 🏆 GitHub Trophies
 

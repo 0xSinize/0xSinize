@@ -261,13 +261,13 @@
 
 
 
-### 👀 Profile View Count
+## 👀 Profile View Count
 ---
 <!--
 ![](https://komarev.com/ghpvc/?username=rakinplaban)
 ![](https://count.getloli.com/get/@rakinplaban.github.readme)
 -->
-![](https://count.getloli.com/@rakinplaban?name=rakinplaban&theme=ai-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+![](https://count.getloli.com/@0xSinize?name=0xSinize&theme=booru-lisu&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
 
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=100&color=DARK&section=footer)

@@ -28,7 +28,7 @@
 
 ---
 
-### &nbsp; 🛠 Language and Tools 
+<h2> 🛠 Language and Tools </h2> 
 
 <table align="center">
     <tr>
@@ -162,13 +162,20 @@
     </a>
 </p>
 
+<br>
+<hr/>
+---
 
 
+## 🏆 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0xsinize&theme=discord&no-frame=false&no-bg=true&margin-w=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=0xSinize&theme=tokyonight&border_radius=5&card_height=180" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xSinize&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
 
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=0xsinize&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+https://github-readme-activity-graph.vercel.app/graph?username=0xSinize&radius=16&theme=nightowl&area=true&order=5&hide_title=false
 
 <h1 align="center">
     <img src="https://i.imgur.com/8FbSeBG.gif" height="200" width="300">
@@ -176,7 +183,6 @@
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/35c28fac-51f7-4c2f-be4c-b71f511d1cb6/dhrmoax-61b52640-df53-4ab4-a213-0f05760cf143.png/v1/fill/w_1182,h_676,q_70,strp/software_programmer_updated__by_rakin235_dhrmoax-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzMyIiwicGF0aCI6IlwvZlwvMzVjMjhmYWMtNTFmNy00YzJmLWJlNGMtYjcxZjUxMWQxY2I2XC9kaHJtb2F4LTYxYjUyNjQwLWRmNTMtNGFiNC1hMjEzLTBmMDU3NjBjZjE0My5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5Tvxogmz4zXxak8Ovr_j4HxT_vxBZMlVGkn4Azw_w4g" height="200">
     
 </h1>
-
 
 
 

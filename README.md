@@ -176,14 +176,18 @@
 <hr/>
 
 <h2>🎶 Spotify </h2>
-<p align="left">
-    <img width=25% src="Musical_Notes.png" alt="Musical Notes" />
-</p>
-<div align="right">
-    <a href="https://spotify-github-profile.kitinanx.com/api/view?uid=31432du3vzmogwptmp44cy5rwq34">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31432du3vzmogwptmp44cy5rwq34&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" alt="Spotify Now Playing" />
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <!-- Logo à gauche -->
+    <img src="Musical_Notes.png" alt="Musical Notes" width="80" height="80" />
+
+    <!-- Tracklist Spotify à droite -->
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31432du3vzmogwptmp44cy5rwq34">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31432du3vzmogwptmp44cy5rwq34&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" 
+             alt="Spotify Now Playing" width="400"/>
     </a>
 </div>
+
 
 
 ## 🏆 GitHub Stats

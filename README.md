@@ -13,7 +13,7 @@
 <!-- CENTRER L'IMAGE SPOTIFY -->
 <div align="center">
     <a href="https://spotify-github-profile.kitinanx.com/api/view?uid=31432du3vzmogwptmp44cy5rwq34">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31432du3vzmogwptmp44cy5rwq34&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false" alt="Spotify Now Playing" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31432du3vzmogwptmp44cy5rwq34&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
     </a>
 </div>
 

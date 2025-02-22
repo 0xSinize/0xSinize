@@ -44,3 +44,4 @@ jobs:
           build_dir: dist  # The folder where the generated files are
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

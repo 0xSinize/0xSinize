@@ -263,15 +263,15 @@
  <details>   
     <br>
     <p align="center">
-        <img src="https://i.ibb.co/CsPVLzgp/4704c6425a4a0eb0e3dd9fa033642a14.webp"/>
+        <img src="https://i.ibb.co/CsPVLzgp/4704c6425a4a0eb0e3dd9fa033642a14.webp" alt="Sweet home" border="0"></a>
         <br>
-        <img src="https://i.ibb.co/gLWmLdh3/allofusaredead.png"/>
+        <img src="https://i.ibb.co/gLWmLdh3/allofusaredead.png" alt="all of us are dead" border="0"></a>
         <br>
-        <img src="https://i.ibb.co/Cj88zgf/My-Name-p2.webp"/>
+        <img src="https://i.ibb.co/Cj88zgf/My-Name-p2.webp" alt="my name" border="0"></a>
         <br>
-        <img src="https://i.ibb.co/B5VRmVcV/wp12130831.webp"/>
+        <img src="https://i.ibb.co/G42WHBnx/alice-in-borderland-header.webp" alt="alice-in-borderland-header" border="0"></a>
         <br>
-        <img src="https://i.ibb.co/G42WHBnx/alice-in-borderland-header.webp"/>
+        <img src="https://i.ibb.co/d4W4Vh6W/wp12130697.webp" alt="alice-in-borderland-header" border="0"></a>
         <br>
     </p>
   </details>
@@ -290,4 +290,3 @@
 </div>
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=100&color=DARK&section=footer)
-

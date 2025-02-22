@@ -181,10 +181,13 @@
 
 ## 📈 GitHub Contribution
 <p>
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xSinize&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />  
-     <a align="center"> <img src="https://streak-stats.demolab.com?user=0xSinize&theme=tokyonight&border_radius=5&card_height=180" height="150" alt="streak graph"  />
-    </a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xSinize&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />  
 </p>
+
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=0xSinize&theme=tokyonight&border_radius=5&card_height=180" height="150" alt="streak graph" />
+</div>
+
 
 
 <hr>

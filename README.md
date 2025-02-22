@@ -164,18 +164,43 @@
 
 <br>
 <hr/>
----
+
 
 
 ## 🏆 GitHub Stats
 
+<hr>
+
+| ![Chinmay Github Stats](https://github-readme-stats.vercel.app/api?username=0xSinize&show_icons=true&theme=radical)              | ![Chinmay GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xSinize&theme=radical)                               |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSinize&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xSinize&theme=radical&utcOffset=8) |
+
+<!-- color=nord_dark -->
+
+<hr>
+
+## 📈 GitHub Contribution Graph
+
+[![Chinmay Kaitade github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0xSinize&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/0xSinize/github-readme-activity-graph)
+
+<hr>
+
+<!-- Trophies Section Here -->
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=0xSinize&theme=dark&no-frame=true&no-bg=false&margin-w=4)
+
+
+
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xsinize&theme=discord&no-frame=false&no-bg=true&margin-w=4" height="150" alt="trophy graph"  />
   <img src="https://streak-stats.demolab.com?user=0xSinize&theme=tokyonight&border_radius=5&card_height=180" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=0xsinize&theme=discord&no-frame=false&no-bg=true&margin-w=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xSinize&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
 
 
-https://github-readme-activity-graph.vercel.app/graph?username=0xSinize&radius=16&theme=nightowl&area=true&order=5&hide_title=false
+
 
 <h1 align="center">
     <img src="https://i.imgur.com/8FbSeBG.gif" height="200" width="300">

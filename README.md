@@ -259,8 +259,7 @@
 
 ---
 
-
-<h1>❤️ Fav Kdrama</h1>
+<h2>❤️ Fav Kdrama</h2>
  <details>   
     <br>
     <p align="center">
@@ -273,6 +272,17 @@
         <img src="https://i.ibb.co/xqGYV88S/alice-in-borderland-netflix-wallpapers.jpg"/>
     </p>
   </details>
+
+
+<h3 align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+</h3>
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=100&color=DARK&section=footer)
 

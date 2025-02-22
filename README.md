@@ -247,23 +247,6 @@
 </p>
 
 
-
-
-
-
-<h1 align="center">
-    <img src="chishiya.gif" height="200" width="300">
-    <img src="hacker_girl.gif" height="200">
-    
-</h1>
-
-
-
-
-
-
-
-
 ## 👀 Profile View Count
 ---
 <!--

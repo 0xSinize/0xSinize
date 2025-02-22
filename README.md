@@ -181,7 +181,7 @@
     <a href="https://tryhackme.com/p/sinize" target="_blank">
         <img src="https://tryhackme-badges.s3.amazonaws.com/sinize.png?update=1" alt="Your Image Badge" />
     </a>
-    <img src="hacker.gif" alt="Hacker GIF" />
+    <img src="hacker.gif" width="300" alt="Hacker GIF" />
 </div>
 
 

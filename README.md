@@ -177,7 +177,7 @@
 
 <h2>🎶 Spotify </h2>
 <p align="left">
-    <img width=80% src="Musical_Notes.png" alt="Musical Notes" />
+    <img width=30% src="Musical_Notes.png" alt="Musical Notes" />
 </p>
 
 

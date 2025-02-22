@@ -253,7 +253,7 @@
   </picture>
 </div>
 
-
+![snake gif](https://github.com/0xSinize/0xSinize/blob/output/github-contribution-grid-snake.gif)
 
 ## 👀 Profile View Count
 ---

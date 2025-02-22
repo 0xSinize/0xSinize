@@ -50,23 +50,10 @@
 
 ## 🌐 Socials:
 
-[![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xSinize/) 
-<a href="https://tryhackme.com/p/sinize" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-2C2C2C?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
-</a>
-
-<a href="https://twitter.com/sinize7331" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>
-
-<a href="https://t.me/sinize" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-
-<a href="https://discord.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
-
+[![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xSinize/)
+<a href="https://tryhackme.com/p/sinize" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-2C2C2C?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+<a href="https://twitter.com/sinize7331" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://t.me/sinize" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 
 
 ---

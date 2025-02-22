@@ -168,7 +168,7 @@
 <h2> 🖥️ TryHackMe Profile </h2>
 <p>
     <a href="https://tryhackme.com/p/sinize" target="_blank">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/sinize.png" alt="Your Image Badge" />
+        <img src="https://tryhackme-badges.s3.amazonaws.com/sinize.png?update=1" alt="Your Image Badge" />
     </a>
 </p>
 

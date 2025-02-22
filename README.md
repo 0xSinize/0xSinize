@@ -247,7 +247,8 @@
 
 ## 🐍 Contributions
 
-![snake gif](https://github.com/0xSinize/0xSinize/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://0xSinize.github.io/mon-repo/dist/github-contribution-grid-snake.svg)
+
 
 ## 👀 Profile View Count
 ---

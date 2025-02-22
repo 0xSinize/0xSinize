@@ -19,7 +19,7 @@
 
 <br/>
 
-#
+
 
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=0xSinize&style=flat&color=blue"/> •   
@@ -28,7 +28,7 @@
   <a href="https://github.com/sponsors/0xSinize"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
 
-#
+<br/>
 
 ---
 

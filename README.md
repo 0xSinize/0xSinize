@@ -155,11 +155,13 @@
 <hr/>
 
 
-<h1> 🖥️ TryHackMe Profile </h1>
-
-<p align="center">
-    <img src="https://i.ibb.co/JtqXxc0/0xSkoll.png" alt="Your Image Badge" />
+<h2> 🖥️ TryHackMe Profile </h2>
+<p>
+    <a href="https://tryhackme.com/p/sinize" target="_blank">
+        <img src="https://tryhackme-badges.s3.amazonaws.com/sinize.png" alt="Your Image Badge" />
+    </a>
 </p>
+
 
 
 

@@ -175,7 +175,7 @@
 <hr/>
 
 
-<h2 align="center"> 🖥️ TryHackMe Profile </h2>
+<h2> 🖥️ TryHackMe Profile </h2>
 
 <div align="center">
     <a href="https://tryhackme.com/p/sinize" target="_blank">

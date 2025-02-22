@@ -1,5 +1,9 @@
 name: Generate Snake Contribution Grid
 
+permissions:
+  contents: write  # Donne la permission de push sur le dépôt
+
+
 on:
   schedule:
     - cron: "0 0,12 * * *" # Roda às 00:00 e 12:00 UTC

@@ -48,6 +48,15 @@
 
 ---
 
+## 🌐 Socials:
+
+[![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xSinize/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sinize7331) 
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-black?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+
+---
+
 <h2> 🛠 Language and Tools </h2> 
 
 <table align="center">

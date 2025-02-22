@@ -194,7 +194,6 @@
 
 <table>
   <tr>
-    <!-- Logo à gauche -->
     <td width="80">
       <img src="Musical_Notes.png" alt="Musical Notes" width="60" height="60" />
     </td>
@@ -245,6 +244,15 @@
      <img src="https://github-profile-trophy.vercel.app/?username=0xsinize&theme=discord&no-frame=false&no-bg=true&margin-w=4" height="150" alt="trophy graph"  />  
     </a>
 </p>
+
+## 🐍 Contributions
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xSinize/xpedrotx/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xpedrotx/xpedrotx/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 
 
 ## 👀 Profile View Count

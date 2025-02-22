@@ -180,16 +180,16 @@
 <hr>
 
 ## 📈 GitHub Contribution Graph
-
-[![Chinmay Kaitade github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0xSinize&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/0xSinize/github-readme-activity-graph)
+<div align="center"
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xSinize&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
 
 <hr>
 
 <!-- Trophies Section Here -->
 
 ## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=0xSinize&theme=dark&no-frame=true&no-bg=false&margin-w=4)
+<div align="center"
+  <img src="https://github-profile-trophy.vercel.app/?username=0xsinize&theme=discord&no-frame=false&no-bg=true&margin-w=4" height="150" alt="trophy graph"  />
 
 
 

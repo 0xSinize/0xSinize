@@ -257,18 +257,24 @@
     <img src="https://count.getloli.com/@0xSinize?name=0xSinize&theme=booru-lisu&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Profile View Count" />
 </div>
 
-
-
-![](https://capsule-render.vercel.app/api?type=waving&height=100&color=DARK&section=footer)
-
 ---
 
-<h1>❤️ Love Art</h1>
+
+<h1>❤️ Fav Kdrama</h1>
  <details>   
     <br>
     <p align="center">
-        <img src="https://i.ibb.co/YcncCZX/art.png"/>
+        <img src="https://i.ibb.co/CsPVLzgp/4704c6425a4a0eb0e3dd9fa033642a14.webp"/>
         <br>
-        <img src="https://i.ibb.co/THbbsJ7/2024-10-18-15-38.png"/>
+        <img src="https://i.ibb.co/gLWmLdh3/allofusaredead.png"/>
+        <br>
+        <img src="https://i.ibb.co/Cj88zgf/My-Name-p2.webp"/>
+        <br>
+        <img src="https://i.ibb.co/xqGYV88S/alice-in-borderland-netflix-wallpapers.jpg"/>
     </p>
   </details>
+
+![](https://capsule-render.vercel.app/api?type=waving&height=100&color=DARK&section=footer)
+
+
+

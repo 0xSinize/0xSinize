@@ -269,7 +269,10 @@
         <br>
         <img src="https://i.ibb.co/Cj88zgf/My-Name-p2.webp"/>
         <br>
-        <img src="https://i.ibb.co/xqGYV88S/alice-in-borderland-netflix-wallpapers.jpg"/>
+        <img src="https://i.ibb.co/d4W4Vh6W/wp12130697.webp"/>
+        <br>
+        <img src="https://i.ibb.co/G42WHBnx/alice-in-borderland-header.webp"/>
+        <br>
     </p>
   </details>
 
@@ -279,12 +282,9 @@
 </h3>
 
 <div align="center">
-
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=100&color=DARK&section=footer)
-
-
 

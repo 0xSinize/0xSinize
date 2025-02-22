@@ -269,22 +269,25 @@
         <br>
         <img src="https://i.ibb.co/Cj88zgf/My-Name-p2.webp"/>
         <br>
-        <img src="https://i.ibb.co/d4W4Vh6W/wp12130697.webp"/>
+        <img src="https://i.ibb.co/B5VRmVcV/wp12130831.webp"/>
         <br>
         <img src="https://i.ibb.co/G42WHBnx/alice-in-borderland-header.webp"/>
         <br>
     </p>
   </details>
 
+<br>
+<hr/>
 
 <h3 align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 </h3>
 
 <div align="center">
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
 
+### Made with ❤️ By Sinize © Copyright. All Rights Reserved @2025.
+
+</div>
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=100&color=DARK&section=footer)
 

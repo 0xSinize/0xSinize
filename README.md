@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img width=80% src="assets/banner_profile.gif" alt="Banner Profile" />
+  <img width=80% src="banner_profile.gif" alt="Banner Profile" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 ---
 
-### &nbsp; 🖥️ Language and Tools 
+### &nbsp; 🛠 Language and Tools 
 
 <table align="center">
     <tr>
@@ -153,6 +153,8 @@
 
 <br>
 <hr/>
+
+### &nbsp; 🖥️ TryHackMe Profile
 
 
 ## 🏆 GitHub Trophies

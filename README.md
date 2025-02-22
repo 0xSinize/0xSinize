@@ -182,7 +182,7 @@
         <img src="https://tryhackme-badges.s3.amazonaws.com/sinize.png?update=1" alt="Your Image Badge" />
     </a>
     <br>
-    <img src="hacker.gif" width="600" alt="Hacker GIF" />
+    <img src="hacker.gif" width="550" alt="Hacker GIF" />
 </div>
 
 

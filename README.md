@@ -179,31 +179,25 @@
 
 <hr>
 
-## 📈 GitHub Contribution Graph
+## 📈 GitHub Contribution
 <p>
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xSinize&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />   
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xSinize&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />  
+     <img src="https://streak-stats.demolab.com?user=0xSinize&theme=tokyonight&border_radius=5&card_height=180" height="150" alt="streak graph"  />
     </a>
 </p>
 
-<div align="center"
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xSinize&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
 
 <hr>
 
 <!-- Trophies Section Here -->
 
 ## 🏆 GitHub Trophies
-<div align="center"
-  <img src="https://github-profile-trophy.vercel.app/?username=0xsinize&theme=discord&no-frame=false&no-bg=true&margin-w=4" height="150" alt="trophy graph"  />
-</div>
+<p>
+     <img src="https://github-profile-trophy.vercel.app/?username=0xsinize&theme=discord&no-frame=false&no-bg=true&margin-w=4" height="150" alt="trophy graph"  />  
+    </a>
+</p>
 
 
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=0xSinize&theme=tokyonight&border_radius=5&card_height=180" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=0xsinize&theme=discord&no-frame=false&no-bg=true&margin-w=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xSinize&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
 
 
 

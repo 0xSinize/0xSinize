@@ -154,7 +154,15 @@
 <br>
 <hr/>
 
-### &nbsp; 🖥️ TryHackMe Profile
+
+<h1 align="center"> 🖥️ TryHackMe Profile </h1>
+
+<p align="center">
+    <img src="https://i.ibb.co/JtqXxc0/0xSkoll.png" alt="Your Image Badge" />
+    <img height="85px" width="300px" style="border-radius:50%" src="https://i.ibb.co/kq1cqbQ/Screenshot-2024-10-16-at-16-17-56-Hack-The-Box-User-Profile.png" alt="Your Image Badge" />
+</p>
+
+
 
 
 ## 🏆 GitHub Trophies
@@ -181,3 +189,15 @@
 
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=100&color=DARK&section=footer)
+
+---
+
+<h1>❤️ Love Art</h1>
+ <details>   
+    <br>
+    <p align="center">
+        <img src="https://i.ibb.co/YcncCZX/art.png"/>
+        <br>
+        <img src="https://i.ibb.co/THbbsJ7/2024-10-18-15-38.png"/>
+    </p>
+  </details>

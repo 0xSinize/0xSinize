@@ -178,16 +178,23 @@
 
 <h2>🎶 Spotify </h2>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<table>
+  <tr>
     <!-- Logo à gauche -->
-    <img src="Musical_Notes.png" alt="Musical Notes" width="80" height="80" style="margin-right: 20px;" />
+    <td width="100px">
+      <img src="Musical_Notes.png" alt="Musical Notes" width="80" height="80" />
+    </td>
 
     <!-- Tracklist Spotify à droite -->
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31432du3vzmogwptmp44cy5rwq34">
+    <td>
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31432du3vzmogwptmp44cy5rwq34">
         <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31432du3vzmogwptmp44cy5rwq34&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" 
              alt="Spotify Now Playing" width="400"/>
-    </a>
-</div>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 

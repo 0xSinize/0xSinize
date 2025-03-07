@@ -40,7 +40,7 @@
 
 - 🏆 I'm Interested in doing **CTFs**
 
-- 📫 You can reach me via Email
+- 📫 You can reach me via Email: sinize@privacyrequired.com
 
 - 🏋️ Gym enthusiast 
 
